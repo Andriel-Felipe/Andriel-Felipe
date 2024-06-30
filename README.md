@@ -1,4 +1,4 @@
--👋 Hi, I’m @Andriel-Felipe
+- 👋 Hi, I’m @Andriel-Felipe
 - 👀 I’m interested in technology games and I am can say that I love collecting new experiences.
 - 🌱 I’m currently learning JS CSS HTML
 - 💞️ I’m collaborating with two projects that are for my college one it is for OCean20 project and the other one it is for a "delivery company from Brazil"
